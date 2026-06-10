@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ContohProjectMaven</groupId>
   <artifactId>ContohProject</artifactId>
-  <version>0.3.5</version>
+  <version>0.3.6</version>
 
 <dependencies>
   <dependency>
@@ -14,11 +14,11 @@
 
 <distributionManagement>
     <repository>
-      <id>github</id>
-      <name>GitHub Packages</name>
-      <url>https://github.com/Rinitial/MKEPL</url>
+        <id>github</id>
+        <name>GitHub Packages</name>
+        <url>https://maven.pkg.github.com/Rinitial/MKEPL</url>
     </repository>
-  </distributionManagement>
+</distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
